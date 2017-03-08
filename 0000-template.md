@@ -1,13 +1,15 @@
-- Feature Name: (fill me in with a unique ident, my_awesome_feature)
-- Start Date: (fill me in with today's date, YYYY-MM-DD)
-- Authors: (need two names: yours and another buddy later)
-- RFC PR: (leave this empty)
-- Related Issue: (link to related github issues)
+---
+feature: (fill me in with a unique ident, my_awesome_feature)
+start-date: (fill me in with today's date, YYYY-MM-DD)
+author: (name of the main author)
+co-authors: (find a buddy later to help our with the RFC)
+related-issues: (will contain links to implementation PRs)
+---
 
 # Summary
 [summary]: #summary
 
-One para explanation of the feature.
+One paragraph explanation of the feature.
 
 # Motivation
 [motivation]: #motivation
@@ -36,4 +38,4 @@ What other designs have been considered? What is the impact of not doing this?
 # Unresolved questions
 [unresolved]: #unresolved-questions
 
-What parts of the design are still TBD?
+What parts of the design are still TBD or unknowns?
